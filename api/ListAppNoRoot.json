@@ -3,18 +3,21 @@
 "Name":"YouTube Premium",
 "Icon":"https://github.com/DevNguyenStudio/Revanced-Manager-Unofficial/raw/main/Image/Logo/YouTube.png",
 "Version":"",
-"Link":""
+"Link":"",
+"Log":""
 },
 {
 "Name":"YouTube Revanced",
 "Icon":"https://github.com/DevNguyenStudio/Revanced-Manager-Unofficial/raw/main/Image/Logo/YouTubeRevanced.png",
 "Version":"",
-"Link":""
+"Link":"",
+"Log":""
 },
 {
 "Name":"MicroG",
 "Icon":"https://github.com/DevNguyenStudio/Revanced-Manager-Unofficial/raw/main/Image/Logo/MicroG.png",
 "Version":"",
-"Link":""
+"Link":"",
+"Log":""
 }
 ]
