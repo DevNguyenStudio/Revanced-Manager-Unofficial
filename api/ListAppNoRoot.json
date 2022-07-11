@@ -2,21 +2,21 @@
 {
 "Name":"YouTube Premium",
 "Icon":"https://github.com/DevNguyenStudio/Revanced-Manager-Unofficial/raw/main/Image/Logo/YouTube.png",
-"Version":"",
+"Version":"17.27.33",
 "Link":"https://raw.githubusercontent.com/DevNguyenStudio/Revanced-Manager-Unofficial/main/api/YouTubePremium.json",
 "Log":""
 },
 {
 "Name":"YouTube Revanced",
 "Icon":"https://github.com/DevNguyenStudio/Revanced-Manager-Unofficial/raw/main/Image/Logo/YouTubeRevanced.png",
-"Version":"",
+"Version":"17.26.34",
 "Link":"https://raw.githubusercontent.com/DevNguyenStudio/Revanced-Manager-Unofficial/main/api/YouTubeRevanced.json",
 "Log":""
 },
 {
 "Name":"MicroG",
 "Icon":"https://github.com/DevNguyenStudio/Revanced-Manager-Unofficial/raw/main/Image/Logo/MicroG.png",
-"Version":"",
+"Version":"0.2.22.212658",
 "Link":"https://raw.githubusercontent.com/DevNguyenStudio/Revanced-Manager-Unofficial/main/api/RevancedMicroG.json",
 "Log":""
 }
