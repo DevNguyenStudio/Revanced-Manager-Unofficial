@@ -4,20 +4,20 @@
 "Icon":"https://github.com/DevNguyenStudio/Revanced-Manager-Unofficial/raw/main/Image/Logo/YouTube.png",
 "Version":"17.27.33",
 "Link":"https://raw.githubusercontent.com/DevNguyenStudio/Revanced-Manager-Unofficial/main/api/YouTubePremium.json",
-"Log":""
+"Log":"Unlock Premium"
 },
 {
 "Name":"YouTube Revanced",
 "Icon":"https://github.com/DevNguyenStudio/Revanced-Manager-Unofficial/raw/main/Image/Logo/YouTubeRevanced.png",
 "Version":"17.26.34",
 "Link":"https://raw.githubusercontent.com/DevNguyenStudio/Revanced-Manager-Unofficial/main/api/YouTubeRevanced.json",
-"Log":""
+"Log":"I don't know"
 },
 {
 "Name":"MicroG",
 "Icon":"https://github.com/DevNguyenStudio/Revanced-Manager-Unofficial/raw/main/Image/Logo/MicroG.png",
 "Version":"0.2.22.212658",
 "Link":"https://raw.githubusercontent.com/DevNguyenStudio/Revanced-Manager-Unofficial/main/api/RevancedMicroG.json",
-"Log":""
+"Log":"Custom GSM For YouTube Premium, YouTube Revanced, YouTube Vanced"
 }
 ]
