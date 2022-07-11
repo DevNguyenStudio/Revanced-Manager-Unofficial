@@ -1,6 +1,7 @@
 [
 {
 "Name":"YouTube Premium",
+"Package":"app.revanced.android.youtube",
 "Icon":"https://github.com/DevNguyenStudio/Revanced-Manager-Unofficial/raw/main/Image/Logo/YouTube.png",
 "Version":"17.27.33",
 "Link":"https://raw.githubusercontent.com/DevNguyenStudio/Revanced-Manager-Unofficial/main/api/YouTubePremium.json",
@@ -8,6 +9,7 @@
 },
 {
 "Name":"YouTube Revanced",
+"Package":"app.revanced.android.youtube",
 "Icon":"https://github.com/DevNguyenStudio/Revanced-Manager-Unofficial/raw/main/Image/Logo/YouTubeRevanced.png",
 "Version":"17.26.34",
 "Link":"https://raw.githubusercontent.com/DevNguyenStudio/Revanced-Manager-Unofficial/main/api/YouTubeRevanced.json",
@@ -15,6 +17,7 @@
 },
 {
 "Name":"MicroG",
+"Package":"com.mgoogle.android.gms",
 "Icon":"https://github.com/DevNguyenStudio/Revanced-Manager-Unofficial/raw/main/Image/Logo/MicroG.png",
 "Version":"0.2.22.212658",
 "Link":"https://raw.githubusercontent.com/DevNguyenStudio/Revanced-Manager-Unofficial/main/api/RevancedMicroG.json",
